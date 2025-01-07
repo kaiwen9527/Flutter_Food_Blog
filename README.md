@@ -19,14 +19,57 @@ https://github.com/user-attachments/assets/38652b10-0999-4553-aba0-47e1793ee1dc
 
 * 長壓主頁的頭像後會將圖像放大 (類似 ig 的做法)。
 
-<img src="https://github.com/user-attachments/assets/ce27f297-975c-4530-97c8-a293dc274db2" width="300px">
+  <img src="https://github.com/user-attachments/assets/ce27f297-975c-4530-97c8-a293dc274db2" width="300px">
 
 ## 美食文章列表
 
-* 滾動會有圖片的視覺差效果。
 * 右下漂浮按鈕可直接滾至頂部位置。
 
   <img src="https://github.com/user-attachments/assets/57919afd-67f1-4402-8ce6-6f4d2f6f6e52" width="300px">  <img src="https://github.com/user-attachments/assets/4e01beff-d8f3-46f6-ac06-b66300e999f5" width="300px">
 
+* 滾動會有圖片的視覺差效果。
+
+  https://github.com/user-attachments/assets/6af546d9-c3a7-402f-962b-9c3f84fc29fb
+
 * 滑至最底部時會加載資料，當無資料時會提示無資料了。
-  
+
+  <img src="https://github.com/user-attachments/assets/d544c7ee-3d90-473e-b827-edeeaa06d77d" width="300px">
+
+## 單一美食界面
+
+* 每個美食品項會有一個單一的介面，有圖片、心得、品名與價位、地址，一些基本資訊。
+
+  <img src="https://github.com/user-attachments/assets/5a46155a-7480-4bfb-82d8-80701599ffdb" width="300px">  <img src="https://github.com/user-attachments/assets/adcb120a-a94b-450b-9f41-cb499a054747" width="300px">
+
+## 標籤分類頁面
+
+* 在右上角的輸入框輸入想要的標籤名稱，按下左邊的新增按鈕會以 **TarBar** 的方式來新增每個標籤的列表頁面。
+
+  <img src="https://github.com/user-attachments/assets/c6ed54a3-28a6-49f8-909d-e0b17ff599c3" width="300px">  <img src="https://github.com/user-attachments/assets/ced69949-7908-43fb-9b2a-653e25137d7a" width="300px">
+
+## 加入標籤
+
+* 點選在單一美食界面右上角的 『 + 』 圖示就會出現上述新增的標籤選項，這時就可選擇想加入的標籤。加入某個標籤後就會顯示已加入。
+
+  <img src="https://github.com/user-attachments/assets/2b6e8964-fb36-48ef-a5a0-d628e15dfeeb" width="300px">  <img src="https://github.com/user-attachments/assets/0a2d9625-aba8-47dc-a270-1cc984e8741b" width="300px">
+
+* 加入後會顯示在分類的頁面裡。品項的右上角圖示可移除品項。
+
+  <img src="https://github.com/user-attachments/assets/4474e579-6623-4178-a04f-4b0cd2628dbc" width="300px">
+
+* 如果要刪除某個標籤，則需先清除此標籤裡的所有品項才可移除，否則會出現提示。
+
+  <img src="https://github.com/user-attachments/assets/75f0aa0d-8a76-4b4c-9b97-1fb5b25e3f34" width="300px">
+
+## 語言切換
+
+* 主頁右上的語言圖示可做語言切換，目前有**繁體中文**與**英文**。
+
+  <img src="https://github.com/user-attachments/assets/8887750f-6662-4006-b6b4-97ee22d40ee9" width="300px">  
+
+* 當切換至英文時會將所有有文字的地方切換成英文 (**主頁**與**食物介面**為例)。
+
+  <img src="https://github.com/user-attachments/assets/e7d7b47e-0e41-4e32-8f8c-c31783cce527" width="300px">  <img src="https://github.com/user-attachments/assets/65307aec-7940-4610-b860-a76bb51b35f9" width="300px">
+
+
+
