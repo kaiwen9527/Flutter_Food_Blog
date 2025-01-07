@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/38652b10-0999-4553-aba0-47e1793ee1dc
 
 * 滾動會有圖片的視覺差效果。
 
-  https://github.com/user-attachments/assets/6af546d9-c3a7-402f-962b-9c3f84fc29fb
+  https://github.com/user-attachments/assets/92c130e4-5814-49f0-a1e5-13088398298e
 
 * 滑至最底部時會加載資料，當無資料時會提示無資料了。
 
