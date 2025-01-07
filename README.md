@@ -73,4 +73,30 @@
   <img src="https://github.com/user-attachments/assets/e7d7b47e-0e41-4e32-8f8c-c31783cce527" width="300px">  <img src="https://github.com/user-attachments/assets/65307aec-7940-4610-b860-a76bb51b35f9" width="300px">
 
 
+## dependencies
+
+provider: ^6.1.2
+
+flutter_screenutil: ^5.9.3
+
+flutter_localizations:
+  sdk: flutter
+
+intl: ^0.19.0
+
+progress_dialog_null_safe: ^3.0.0
+
+easy_refresh: ^3.4.0
+
+## Version
+
+Flutter SDK -- 3.24.4
+
+Android SDK -- 35.0.0
+
+Dart Version -- 3.5.4
+
+DevTools Version -- 2.37.3
+
+Java JDK -- 17.0.11
 
